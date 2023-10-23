@@ -11,3 +11,5 @@ This analysis began by using webscraping tools to gather data for over 20,000 ga
 ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/clerycolm/Chess-Games-Analysis/blob/main/Moves%20Count%20plots.png?raw=true))
 
 This analysis concludes with Multiclass Classification Model Building. Findings from exploratory data analysis are applied in an attempt to predict game outcomes. 
+
+**Key Skills and Tools:** Python (scikit-learn, numpy, pandas, matplotlib, seaborn), Web Scraping ( Beautiful Soup, selenium ), Multiclass Classification, Exploratory Data Analysis
