@@ -8,6 +8,6 @@ This analysis began by using webscraping tools to gather data for over 20,000 ga
 
  After cleaning the data, Exploratory Data Analysis began. Exploration of variables generated intruiging insights into factors that affect game outcomes in addition to relationship between variables.
 
-![EDA sample: Distribution of Move Counts](Moves Count plots.png)
+![EDA sample: Distribution of Move Counts]([Moves Count plots.png](https://github.com/clerycolm/Chess-Games-Analysis/blob/main/Moves%20Count%20plots.png?raw=True)
 
 This analysis concludes with Multiclass Classification Model Building. Findings from exploratory data analysis are applied in an attempt to predict game outcomes. 
