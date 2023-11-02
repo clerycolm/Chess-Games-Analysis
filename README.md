@@ -25,6 +25,6 @@ Our objectives in Model Building are twofold. Firstly, we aim to construct inter
 
 The second is to use these models to predict game outcomes. By leveraging the insights gained during the EDA phase, we aim to develop models capable of categorizing game results, potentially foreseeing victory, defeat, or draw based on the historical game data.
 
-These goals are achieved through the development of Multinomial Logistic Regression models, Random Forest Classifiers, K Nearest Neighbour Classifiers and Support Vector Machines. The primary measure used in judging models was accuracy, with a score of $91\%$ being achieved in testing of Support Vector Machine model.
+These goals are achieved through the development of Multinomial Logistic Regression models, Random Forest Classifiers, K Nearest Neighbour Classifiers and Support Vector Machines. The primary measure used in judging models was accuracy, with a score of $91\\%$ being achieved in testing of Support Vector Machine model.
 
 **Key Skills and Tools:** Python (scikit-learn, statsmodels , numpy, pandas, matplotlib, seaborn), Web Scraping ( Beautiful Soup, selenium ), Multiclass Classification, Resampling Methods, Hypothesis Testing, Exploratory Data Analysis
